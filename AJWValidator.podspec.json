@@ -2,8 +2,8 @@
   "name": "AJWValidator",
   "version": "0.0.8",
   "summary": "Drop in user input validation for your iOS apps.",
-  "description": "AJWValidator provides drop in user input validation for your iOS apps.\n\nBuilt in validations:\n\n- Presence validation\n- Minimum length validation\n- Maximum length validation\n- Range validation (string character length and numeric)\n- Equality validation (for password confirmation and such)\n- Regular expression match validation\n- Email address validation\n- Custom block validation\n- Remote validation (remote web service validation)\n- Ensure string contains at least one digit\n- *More to come as encountered!*",
-  "homepage": "https://github.com/adamwaite/Validator",
+  "description": "Child copy of AJWValidator provides drop in user input validation for your iOS apps.\n\nBuilt in validations:\n\n- Presence validation\n- Minimum length validation\n- Maximum length validation\n- Range validation (string character length and numeric)\n- Equality validation (for password confirmation and such)\n- Regular expression match validation\n- Email address validation\n- Custom block validation\n- Remote validation (remote web service validation)\n- Ensure string contains at least one digit\n- *More to come as encountered!*",
+  "homepage": "https://github.com/ronTabachnik/AJWValidator_Child",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -11,12 +11,12 @@
   "authors": {
     "Adam Waite": "adam@adamjwaite.co.uk"
   },
-  "social_media_url": "http://twitter.com/AdamWaite",
+  "social_media_url": "",
   "platforms": {
     "ios": "6.0"
   },
   "source": {
-    "git": "https://github.com/adamwaite/Validator.git",
+    "git": "https://github.com/ronTabachnik/AJWValidator_Child.git",
     "tag": "v0.0.8"
   },
   "source_files": [
